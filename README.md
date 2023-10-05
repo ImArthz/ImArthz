@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi 😊, I'm Arthur</h1>
-    <h3>Im cursing Computer Engeneering 💻 for Cefet-MG🏫</h3>
+    <h3>I'm  studying Computer Engeneering 💻 for Cefet-MG🏫</h3>
 </div>
 
 <div align="center">
