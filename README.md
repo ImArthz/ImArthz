@@ -2,7 +2,7 @@
     <h1>Hi 😊, I'm Arthur</h1>
     <h3>I'm studying Computer Engineering 💻 at Cefet-MG 🏫</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ImArthz\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ImArthz)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
