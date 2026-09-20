@@ -1,69 +1,91 @@
 <div align="center">
-    <h1>Hi 😊, I'm Arthur</h1>
-    <h3>I'm studying Computer Engineering 💻 at Cefet-MG 🏫</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ImArthz)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://avatars.githubusercontent.com/u/135072001?s=400&u=c0236aed9621fc4fbe0823f2bc8d1781c31bcd04&v=4" width="150" style="border-radius: 50%;" alt="Arthur"/>
 
-<br>
+  # Hey, I'm Arthur
 
-<a href="https://twitter.com/im_arthz">
-    <img src="https://img.shields.io/twitter/follow/Im_Arthz?logo=twitter&style=for-the-badge"/>
-</a>
-</div>
+  **Computer Engineering Student at CEFET-MG Divinopolis**
 
----
-
-<div align="center">
-    <h3>🌱 Currently learning</h3>
-    <p>C++ • Python • Java</p>
-
-```
-📫 Contact 
-mendoncaoarthur@gmail.com
-```
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imarthz/)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/imarthz)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendoncaoarthur@gmail.com)
 
 </div>
 
 ---
 
+### About Me
+
+- Currently pursuing a degree in **Computer Engineering** at **CEFET-MG**
+- Passionate about algorithms, data structures, and building interactive applications
+- Always learning something new with **Flutter, Dart, C++, Python, and Java**
+
+---
+
+### Featured Project
+
+<table>
+  <tr>
+    <td width="60">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
+    </td>
+    <td>
+      <a href="https://github.com/ImArthz/Flutter/tree/master/projeto_arvores_avancadas"><strong>Advanced Trees & Data Structures</strong></a><br/>
+      Interactive visualizer and step-by-step simulator for Splay Tree, Treap, Trie, Patricia Tree, and KD-Tree. Includes benchmarks, scientific article, and multi-platform builds (Android, Windows, Linux).
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/ImArthz/Flutter/releases/latest/download/arvores_app-v1.0.3.apk">
+    <img src="https://img.shields.io/badge/Download-Android%20APK-34A853?style=for-the-badge&logo=android&logoColor=white" alt="APK">
+  </a>
+  <a href="https://github.com/ImArthz/Flutter/releases/latest/download/arvores_app_windows.zip">
+    <img src="https://img.shields.io/badge/Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  </a>
+  <a href="https://github.com/ImArthz/Flutter/releases/latest/download/arvores_app_linux.tar.gz">
+    <img src="https://img.shields.io/badge/Download-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  </a>
+</p>
+
+---
+
+### Languages & Tools
+
 <div align="center">
-    <h3>Connect with me</h3>
-    <a href="https://twitter.com/Im_Arthz">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
-    </a>
-    <a href="https://discordapp.com/users/imarthz">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/>
-    </a>
+
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImArthz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="160" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImArthz&theme=tokyonight&hide_border=true" height="160" alt="streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImArthz&theme=tokyonight&layout=compact&hide_border=true" height="160" alt="languages"/>
 </div>
 
 ---
 
 <div align="center">
-    <h3>Languages and Tools</h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImArthz&theme=tokyo-night&hide_border=true" width="95%" alt="activity"/>
 </div>
 
 ---
 
-<div align="center">
-    <h3>Support</h3>
-    <a href="https://www.buymeacoffee.com/imarthz">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45"/>
-    </a>
-    <a href="https://ko-fi.com/imarthz">
-        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45"/>
-    </a>
-</div>
-
----
-
-<div align="center">
-    <h3>My GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=ImArthz&theme=synthwave&show_icons=true" height="150"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImArthz&theme=synthwave" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImArthz&theme=synthwave&layout=compact" height="150"/>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ImArthz&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
