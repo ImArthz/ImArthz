@@ -81,7 +81,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImArthz&theme=tokyo-night&hide_border=true" width="95%" alt="activity"/>
+  <img src="https://github-readme-activity-graph2.vercel.app/graph?username=ImArthz&theme=tokyo-night&hide_border=true" width="95%" alt="activity"/>
 </div>
 
 ---
