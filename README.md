@@ -70,12 +70,12 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImArthz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="160" alt="stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImArthz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="160" alt="stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImArthz&theme=tokyonight&hide_border=true" height="160" alt="streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImArthz&theme=tokyonight&layout=compact&hide_border=true" height="160" alt="languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImArthz&theme=tokyonight&layout=compact&hide_border=true" height="160" alt="languages"/>
 </div>
 
 ---
